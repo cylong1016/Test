@@ -1,3 +1,0 @@
-﻿测试cmd操作和github for windows操作是否同步
-git能否忽略已经被追踪的文件
-$git rm --cached FILENAME
